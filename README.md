@@ -1,5 +1,5 @@
 # `aima-data`
-Data files to accompany the algorithms from Norvig And Russell's *Artificial Intelligence - A Modern Approach*. 
+Data files to accompany the algorithms from Norvig And Russell's *Artificial Intelligence - A Modern Approach*.
 The idea is that the same data files can be used with any of the implementations: `aima-java`, `aima-python`, `aima-lisp`, or eventually `aima-javascript`.
 
 The data is divided into three types:
@@ -18,13 +18,13 @@ We'll list the source files for each of the three:
 
 ## Machine Learning Data Sets
 ```text
-    iris.csv				Data on different types of iris flowers	
+    iris.csv				Data on different types of iris flowers
     orings.csv				Data from O-rings on space shuttle missions
     restaurant.csv			Restaurant example from the textbook
     zoo.csv				    Animals and their characteristics
 
     iris.txt				Descriptions of the above files
-    orings.txt				
+    orings.txt
     zoo.txt
 ```
 
@@ -33,7 +33,7 @@ We'll list the source files for each of the three:
     MAN/
         *.txt				Various Unix "man page" entries
     EN-text/
-        wordlist			A list of 173000 English words
+        wordlist.txt		A list of 173000 English words
         spam.txt			Collection of spam emails
         gutenberg.txt		Copyright notice from Project Gutenberg, where rest comes from
         flatland.txt		The novel Flatland
