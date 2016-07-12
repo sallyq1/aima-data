@@ -32,6 +32,7 @@ We'll list the source files for each of the three:
         train-labels-idx1-ubyte     60,000 labels for training images
         t10k-images-idx3-ubyte      10,000 testing images
         t10k-labels-idx1-ubyte      10,000 labels for testing images
+        mnist.txt                   Description of MNIST files
 ```
 
 ## English text
