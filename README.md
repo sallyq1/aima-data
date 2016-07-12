@@ -18,14 +18,21 @@ We'll list the source files for each of the three:
 
 ## Machine Learning Data Sets
 ```text
-    iris.csv                Data on different types of iris flowers
-    orings.csv              Data from O-rings on space shuttle missions
-    restaurant.csv          Restaurant example from the textbook
-    zoo.csv                 Animals and their characteristics
+    iris.csv                        Data on different types of iris flowers
+    orings.csv                      Data from O-rings on space shuttle missions
+    restaurant.csv                  Restaurant example from the textbook
+    zoo.csv                         Animals and their characteristics
 
-    iris.txt                Descriptions of the above files
+    iris.txt                        Descriptions of the above files
     orings.txt
     zoo.txt
+
+    MNIST/
+        train-images-idx3-ubyte     60,000 training images
+        train-labels-idx1-ubyte     60,000 labels for training images
+        t10k-images-idx3-ubyte      10,000 testing images
+        t10k-labels-idx1-ubyte      10,000 labels for testing images
+        mnist.txt                   Description of MNIST files
 ```
 
 ## English text
